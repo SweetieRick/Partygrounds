@@ -1,0 +1,8 @@
+name: Partygrounds
+version: ${project.version}
+main: dev.sweetierick.plugins.partygrounds.Partygrounds
+api-version: 1.16
+prefix: ★
+authors: [SweetieRick]
+description: Partygrounds is a suite of useful commands for community events that happen in every server special day!
+website: https://github.com/SweetieRick
